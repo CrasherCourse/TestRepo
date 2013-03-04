@@ -1,4 +1,4 @@
-// This is a generic Wello Horld code
+// This is a generic Eyb code
 // Written in C
 // by CrasherCourse
 
@@ -13,5 +13,5 @@
 
 int main(int argc, char** argv)
 {
-    printf("Wello Horld!\n");
+    printf("Eyb Horld!\n");
 }
