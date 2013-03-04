@@ -11,3 +11,7 @@ Some stuff I done did
 * pushed stuff into master
 * made a branch
 * added stuff to Branch
+* Switched between master and test
+* made bulletpoints
+* `Formatting`
+* merged test and master
