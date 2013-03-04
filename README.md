@@ -15,3 +15,4 @@ Some stuff I done did
 * made bulletpoints
 * `Formatting in README.md`
 * merged test and master
+* added a file from a sub-directory
