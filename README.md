@@ -3,4 +3,15 @@ Test Repo
 
 Summary
 --------------------------------------------------------
-This is a test repo for working to practice using repos.
+This is a test repo for practice in using repos.
+
+Some stuff I done did
+--------------------------------------------------------
+* made a repo
+* pushed stuff into master
+* made a branch
+* added stuff to Branch
+* Switched between master and test
+* made bulletpoints
+* `Formatting`
+* merged test and master
