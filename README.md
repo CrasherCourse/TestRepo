@@ -13,5 +13,5 @@ Some stuff I done did
 * added stuff to Branch
 * Switched between master and test
 * made bulletpoints
-* `Formatting`
+* `Formatting in README.md`
 * merged test and master
